@@ -63,7 +63,7 @@ class MakePlaylist(object):
         if counter == 0:
            print 'No Match Found'
            counter = 1
-           return None, None, counter 
+           return None, None, number_of_song, counter 
         
    
 def main():
