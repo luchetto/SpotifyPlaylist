@@ -25,7 +25,7 @@ i.e. if the input is "if i can't let it go out of my mind", one valid output wou
 (this is the beginning of one of the poems on the blog).
 
 To be clear the output should be a playlist that reads out the original text. For instance:
-[[https://github.com/luchetto/SpotifyPlaylist/blob/master/playlist_image.png]]
+![alt text](https://github.com/luchetto/SpotifyPlaylist/blob/master/playlist_image.png)
 
 
 
