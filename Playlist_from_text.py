@@ -61,7 +61,7 @@ class MakePlaylist(object):
                         print ('There is an exact song', track['name'])
                         printed = True
                         number_of_song += 1
-                        return track['name'], track['href'][14:], number_of_song, counter 
+                        return track['name'], track['id'], number_of_song, counter 
                     else:
                         continue
             print ('No exact song found, reducing the sentence')
